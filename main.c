@@ -1,4 +1,9 @@
-void main
+void main()
 {
-	printf(""Hello worlf");
+	printf("firstCode");
+}
+
+void calculatedSeconds()
+{
+	printf("second");
 }
